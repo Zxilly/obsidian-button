@@ -2,8 +2,6 @@
   "compilerOptions": {
     "baseUrl": ".",
     "allowSyntheticDefaultImports": true,
-    "inlineSourceMap": true,
-    "inlineSources": true,
     "jsx": "react",
     "module": "ESNext",
     "target": "esnext",
@@ -11,7 +9,8 @@
     "noImplicitAny": true,
     "moduleResolution": "node",
     "importHelpers": true,
-    "lib": ["dom", "esnext"]
+    "lib": ["dom", "esnext"],
+    "sourceMap": false,
   },
   "include": ["**/*.ts", "**/*.tsx"]
 }

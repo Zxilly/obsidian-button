@@ -2,5 +2,7 @@ node_modules/
 dist/
 data.json
 main.js
+main.js.map
 .vscode/
 *.code-workspace
+.idea/

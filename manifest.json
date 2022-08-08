@@ -1,10 +1,10 @@
 {
-  "id": "react-starter",
-  "name": "React Starter",
-  "description": "Obsidian + ReactJS",
-  "version": "0.0.0",
-  "author": "Liam Cain",
-  "authorUrl": "https://github.com/liamcain/",
-  "isDesktopOnly": true,
+  "id": "obsidian-button",
+  "name": "Obsidian Button",
+  "description": "Obsidian Button with data attribute",
+  "version": "0.0.1",
+  "author": "Zxilly",
+  "authorUrl": "https://github.com/Zxilly/",
+  "isDesktopOnly": false,
   "minAppVersion": "0.10.8"
 }
